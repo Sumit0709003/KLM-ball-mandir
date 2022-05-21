@@ -1,5 +1,5 @@
 body {
-background-image:url("KLM.jpeg");
+background-image:url("KLM.jpeg"); no-repeat top left; width:200px; height:200px
 }
 h1 {
     text-align: center;
